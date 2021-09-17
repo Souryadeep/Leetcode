@@ -4,4 +4,4 @@ Solved by **Souryadeep**
 
 Currently a Graduate Student in the Computer Engineering department @ [**Columbia University**](https://www.engineering.columbia.edu/) 
 
-Ex-Qualcomm System Level Test and Automation Engineer
+Ex-[**Qualcomm**](https://www.qualcomm.com/) System Level Test and Automation Engineer
