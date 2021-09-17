@@ -1,7 +1,7 @@
 # Leetcode solutions
 
-Solved by Souryadeep
+Solved by **Souryadeep**
 
-Currently a Graduate Student in the Computer Engineering department @ Columbia University
+Currently a Graduate Student in the Computer Engineering department @ [**Columbia University**](https://www.engineering.columbia.edu/) 
 
 Ex-Qualcomm System Level Test and Automation Engineer
