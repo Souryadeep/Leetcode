@@ -1,6 +1,7 @@
 /*
 leetcode math problem 50. Pow(x,n)
 this code hits a segmentation fault for very large n, as stack size increases by a lot!
+You will get a segmentation fault if you try to run with the upper bound limits described in the question for power
 please submit a pull request if you have a solution to this. I saw there is a fast power recursive algo, still to explore that
 */
 
