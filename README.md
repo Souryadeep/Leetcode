@@ -9,8 +9,8 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 
 *work in progress...*
 
-| Tables   |      Are      |  Cool |
+| Type     |    Question   |  Link |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
+| Math     |  1. Pallindrome          | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
