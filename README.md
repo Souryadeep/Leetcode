@@ -12,6 +12,6 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 | Type     |    Question   |  Link |
 |----------|:-------------:|------:|
 | Math     |  1. Pallindrome          | $1600 |
-			  2. Sqrt
+|   | 2. Sqrt||
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
