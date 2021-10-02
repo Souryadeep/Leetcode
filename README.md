@@ -9,7 +9,7 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 
 *work in progress...*
 
-
+|::        |::                                                                          |::           |
 | Type     |    Question                                                                |  Difficulty |
 |----------|:---------------------------------------------------------------------------|:------------|
 | Math     |1. [Pallindrome](https://leetcode.com/problems/palindrome-number/)          |Easy         |
