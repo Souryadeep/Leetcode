@@ -10,7 +10,7 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 *work in progress...*
 
 | Type     |    Question   |  Link |
-|----------|:-------------:|------:|
+|----------|:-------------|------:|
 | Math     |  1. Pallindrome          | $1600 |
 |   |2. Sqrt||
 | col 2 is |    centered   |   $12 |
