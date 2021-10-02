@@ -9,9 +9,8 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 
 *work in progress...*
 
-| Type     |    Question   |  Link |
+| Type     |    Question   |  Difficulty |
 |----------|:-------------|------:|
-| Math     |  1. Pallindrome          | $1600 |
-|   |2. Sqrt||
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Math     |  1. [Pallindrome](https://leetcode.com/problems/palindrome-number/)          | Easy |
+|   |2. [Sqrt](https://leetcode.com/problems/sqrtx/)|Easy|
+||[Pow](https://leetcode.com/problems/powx-n/)|Medium|
