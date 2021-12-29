@@ -16,5 +16,7 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 | Math     |1. [Pallindrome](https://leetcode.com/problems/palindrome-number/)          |Easy         |
 |          |2. [Sqrt](https://leetcode.com/problems/sqrtx/)                             |Easy         |
 |          |3. [Pow](https://leetcode.com/problems/powx-n/)                             |Medium       |
-|:--------:|
-|Strings
+|          |4. [PlusOne](https://leetcode.com/problems/plus-one/)                       |Easy         |
+|          |5. [RomanToInt](https://leetcode.com/problems/roman-to-integer/)            |Easy         |
+|          |6. [TwoSum](https://leetcode.com/problems/two-sum)                          |Easy         |
+| String   |1. [LCPrefix](https://leetcode.com/problems/longest-common-prefix/)         |Easy         |
