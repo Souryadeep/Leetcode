@@ -20,3 +20,4 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 |          |5. [RomanToInt](https://leetcode.com/problems/roman-to-integer/)            |Easy         |
 |          |6. [TwoSum](https://leetcode.com/problems/two-sum)                          |Easy         |
 | String   |1. [LCPrefix](https://leetcode.com/problems/longest-common-prefix/)         |Easy         |
+|          |2. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)    |Easy         |
