@@ -16,3 +16,5 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 | Math     |1. [Pallindrome](https://leetcode.com/problems/palindrome-number/)          |Easy         |
 |          |2. [Sqrt](https://leetcode.com/problems/sqrtx/)                             |Easy         |
 |          |3. [Pow](https://leetcode.com/problems/powx-n/)                             |Medium       |
+|:--------:|
+|Strings
