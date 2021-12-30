@@ -21,3 +21,4 @@ More about me @ [**My home page**](https://github.com/Souryadeep)
 |          |6. [TwoSum](https://leetcode.com/problems/two-sum)                          |Easy         |
 | String   |1. [LCPrefix](https://leetcode.com/problems/longest-common-prefix/)         |Easy         |
 |          |2. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)    |Easy         |
+| Array    |1. [Remove Element](https://leetcode.com/problems/remove-element/)		|Easy	      |
