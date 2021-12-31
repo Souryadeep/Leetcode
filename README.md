@@ -21,3 +21,4 @@ All solutions : Using the C programming language
 | String   |1. [LCPrefix](https://leetcode.com/problems/longest-common-prefix/)         |Easy         |
 |          |2. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)    |Easy         |
 | Array    |1. [Remove Element](https://leetcode.com/problems/remove-element/)		|Easy	      |
+|          |2. [Next Permutation](https://leetcode.com/problems/next-permutation/)      |Medium       |
