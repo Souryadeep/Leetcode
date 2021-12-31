@@ -22,3 +22,4 @@ All solutions : Using the C programming language
 |          |2. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)    |Easy         |
 | Array    |1. [Remove Element](https://leetcode.com/problems/remove-element/)		|Easy	      |
 |          |2. [Next Permutation](https://leetcode.com/problems/next-permutation/)      |Medium       |
+| Recursion|1. [Reverse List](https://leetcode.com/problems/reverse-linked-list/)       |Easy         |
