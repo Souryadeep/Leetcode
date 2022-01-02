@@ -24,3 +24,4 @@ All solutions : Using the C programming language
 |          |2. [Next Permutation](https://leetcode.com/problems/next-permutation/)      |Medium       |		 	      	|
 | Recursion|1. [Reverse List](https://leetcode.com/problems/reverse-linked-list/)       |Easy         |use [list1.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list1.c) and [list1.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list1.h)	|
 |          |2. [Merge lists](https://leetcode.com/problems/merge-two-sorted-lists/)     |Easy         |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
+| Bit Manipulation|1. [Add Binary](https://leetcode.com/problems/add-binary/)           |Easy         |                         |
