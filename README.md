@@ -26,3 +26,4 @@ All solutions : Using the C programming language
 |          |2. [Merge lists](https://leetcode.com/problems/merge-two-sorted-lists/)     |Easy         |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
 | Bit Manipulation|1. [Add Binary](https://leetcode.com/problems/add-binary/)           |Easy         |                         |
 |          |2. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)              |Easy         |                         |
+|          |3. [Hamming Weight](https://leetcode.com/problems/number-of-1-bits/)        |Easy         |                         |
