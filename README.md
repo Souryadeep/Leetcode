@@ -28,3 +28,4 @@ All solutions : Using the C programming language
 |          |2. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)              |Easy         |                         |
 |          |3. [Hamming Weight](https://leetcode.com/problems/number-of-1-bits/)        |Easy         |                         |
 |          |4. [Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|Easy    |                 |
+|          |5. [Subsets](https://leetcode.com/problems/subsets/)                        |Medium       |Solved using bit manipulation. Cascading and backtracking are other alternatives |
