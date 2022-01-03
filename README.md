@@ -33,4 +33,4 @@ All solutions : Using the C programming language
 |Hash Table|1. [Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy	      |                         |
 |Concurrency|1. [Print in Order](https://leetcode.com/problems/print-in-order/)         |Easy	      |                         |
 |Dynamic Programming|1. [Count Bits](https://leetcode.com/problems/counting-bits/)       |Easy         |Bit manipulation also used| 
-|Linked List|1. [Delete Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy   |                 |
+|Linked List|1. [Delete Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy   |use with [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h) and [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c)                 |
