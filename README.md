@@ -30,3 +30,4 @@ All solutions : Using the C programming language
 |          |4. [Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|Easy    |                 |
 |          |5. [Subsets](https://leetcode.com/problems/subsets/)                        |Medium       |Solved using bit manipulation. |
 |          |6. [Single Number](https://leetcode.com/problems/single-number/)            |Easy         |Bit manipulation solution|
+|Hash Table|1. [Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy	      |                         |
