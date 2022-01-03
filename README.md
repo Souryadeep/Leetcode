@@ -32,3 +32,4 @@ All solutions : Using the C programming language
 |          |6. [Single Number](https://leetcode.com/problems/single-number/)            |Easy         |Bit manipulation solution|
 |Hash Table|1. [Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy	      |                         |
 |Concurrency|1. [Print in Order](https://leetcode.com/problems/print-in-order/)         |Easy	      |                         |
+|Dynamic Programming|1.[Count Bits](https://leetcode.com/problems/counting-bits/)       |Easy         |Bit manipulation also used| 
