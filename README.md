@@ -29,3 +29,4 @@ All solutions : Using the C programming language
 |          |3. [Hamming Weight](https://leetcode.com/problems/number-of-1-bits/)        |Easy         |                         |
 |          |4. [Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|Easy    |                 |
 |          |5. [Subsets](https://leetcode.com/problems/subsets/)                        |Medium       |Solved using bit manipulation. |
+|          |6. [Single Number](https://leetcode.com/problems/single-number/)            |Easy         |Bit manipulation solution|
