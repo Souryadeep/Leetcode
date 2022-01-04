@@ -2,7 +2,9 @@
 
 Solved by     : **Souryadeep Sen**  
 Home page     : [**My home page**](https://github.com/Souryadeep)  
-All solutions : Using the C programming language
+All solutions : Using the C programming language  
+Source code   : [src](https://github.com/Souryadeep/Leetcode/tree/master/src)  
+Headers       : [headers](https://github.com/Souryadeep/Leetcode/tree/master/include)
 
 # Table of Contents
 
