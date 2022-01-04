@@ -35,4 +35,5 @@ All solutions : Using the C programming language
 |Dynamic Programming|1. [Count Bits](https://leetcode.com/problems/counting-bits/)       |Easy         |Bit manipulation also used| 
 | Linked List|1. [Delete Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy   |use [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h) and [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c)                 |
 |           |2. [Keep Unique](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Medium|use [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h) and [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c)                    |
+|           |3. [Swap Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)        |Medium       |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
 | Simulation|1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                   |Easy         |Also a string/math Q     |
