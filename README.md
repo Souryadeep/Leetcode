@@ -32,7 +32,7 @@ Headers       : [headers](https://github.com/Souryadeep/Leetcode/tree/master/inc
 |          |4. [Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|Easy    |                 |
 |          |5. [Subsets](https://leetcode.com/problems/subsets/)                        |Medium       |Solved using bit manipulation. |
 |          |6. [Missing Number](https://leetcode.com/problems/missing-number/)          |Easy         |                         |
-|          |6. [Single Number](https://leetcode.com/problems/single-number/)            |Easy         |Bit manipulation solution|
+|          |7. [Single Number](https://leetcode.com/problems/single-number/)            |Easy         |Bit manipulation solution|
 | Hash Table|1. [Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy	      |                         |
 |Concurrency|1. [Print in Order](https://leetcode.com/problems/print-in-order/)         |Easy	      |                         |
 |Dynamic Programming|1. [Count Bits](https://leetcode.com/problems/counting-bits/)       |Easy         |Bit manipulation also used| 
