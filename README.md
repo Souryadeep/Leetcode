@@ -35,6 +35,7 @@ Headers       : [headers](https://github.com/Souryadeep/Leetcode/tree/master/inc
 | Hash Table|1. [Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy	      |                         |
 |Concurrency|1. [Print in Order](https://leetcode.com/problems/print-in-order/)         |Easy	      |                         |
 |Dynamic Programming|1. [Count Bits](https://leetcode.com/problems/counting-bits/)       |Easy         |Bit manipulation also used| 
+|          |2. [Climb Stairs](https://leetcode.com/problems/climbing-stairs/)           |Easy         |Used memoization         |
 | Linked List|1. [Delete Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy   |use [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h) and [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c)                 |
 |           |2. [Keep Unique](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Medium|use [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h) and [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c)                    |
 |           |3. [Swap Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)        |Medium       |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
