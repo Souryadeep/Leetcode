@@ -24,8 +24,7 @@ Headers       : [headers](https://github.com/Souryadeep/Leetcode/tree/master/inc
 |          |2. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)    |Easy         |		 		|
 | Array    |1. [Remove Element](https://leetcode.com/problems/remove-element/)		|Easy	      |		 		|
 |          |2. [Next Permutation](https://leetcode.com/problems/next-permutation/)      |Medium       |		 	      	|
-|          |3. [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/)|Medium      |1.Negative marking  
-                                                                                         	       2.Bit Manipulation       |
+|          |3. [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/)|Medium      |1.Negative marking 2. Bit Manipulation|
 | Recursion|1. [Reverse List](https://leetcode.com/problems/reverse-linked-list/)       |Easy         |use [list1.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list1.c) and [list1.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list1.h)	|
 |          |2. [Merge lists](https://leetcode.com/problems/merge-two-sorted-lists/)     |Easy         |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
 | Bit Manipulation|1. [Add Binary](https://leetcode.com/problems/add-binary/)           |Easy         |                         |
