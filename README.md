@@ -1,10 +1,11 @@
 # Leetcode solutions
 
 Solved by     : **Souryadeep Sen**  
-Home page     : [**My home page**](https://github.com/Souryadeep)  
+Home page     : [My home page](https://github.com/Souryadeep)  
 All solutions : Using the C programming language  
 Source code   : [src](https://github.com/Souryadeep/Leetcode/tree/master/src)  
-Headers       : [headers](https://github.com/Souryadeep/Leetcode/tree/master/include)
+Headers       : [headers](https://github.com/Souryadeep/Leetcode/tree/master/include)  
+Collaboration : I am open to collobaration. Please submit a pull request if there is a better way to solve the problem/there is a bug
 
 # Table of Contents
 
