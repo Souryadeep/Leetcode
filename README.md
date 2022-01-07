@@ -37,6 +37,7 @@ Collaboration : I am open to collobaration. Please submit a pull request if ther
 |          |7. [Single Number](https://leetcode.com/problems/single-number/)            |Easy         |Bit manipulation solution|
 |          |8. [Pallindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|Easy  |                         |
 |          |9. [Sum of Two Ints](https://leetcode.com/problems/sum-of-two-integers/)    |Medium       |                         |
+|          |10. [Gray Code](https://leetcode.com/problems/gray-code/)                   |Medium       |                         |
 | Hash Table|1. [Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy	      |                         |
 |Concurrency|1. [Print in Order](https://leetcode.com/problems/print-in-order/)         |Easy	      |                         |
 |Dynamic Programming|1. [Count Bits](https://leetcode.com/problems/counting-bits/)       |Easy         |Bit manipulation also used| 
