@@ -7,7 +7,14 @@ Source code   : [src](https://github.com/Souryadeep/Leetcode/tree/master/src)
 Headers       : [headers](https://github.com/Souryadeep/Leetcode/tree/master/include)  
 Collaboration : I am open to collobaration. Please submit a pull request if there is a better way to solve the problem/there is a bug
 
-# Table of Contents
+## Motivation  
+
+I created this repo to serve as a reference for others working on leetcode problems, and am working on documenting my approach to solving the problems, which I will publish on this page.  
+There are always multiple ways to solve problems, as you will see on leetcode too.  
+I have tried to add in some other best practices in memory management etc.  
+Disclaimer: These do not neccesarily represent the most optimum solution. I am open to collaboration, and feel free to submit a pull request if you would like to contribute to the repo.
+
+## Table of Contents
 
 👷 *work in progress...*  
 
