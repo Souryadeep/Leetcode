@@ -28,6 +28,7 @@ Disclaimer: These do not neccesarily represent the most optimum solution. I am o
 |          |4. [PlusOne](https://leetcode.com/problems/plus-one/)                       |Easy         |		 		|
 |          |5. [RomanToInt](https://leetcode.com/problems/roman-to-integer/)            |Easy         |		 		|
 |          |6. [TwoSum](https://leetcode.com/problems/two-sum)                          |Easy         |		 		|
+|          |7. [Reverse Int](https://leetcode.com/problems/reverse-integer/)            |Medium       |                         |
 | String   |1. [LCPrefix](https://leetcode.com/problems/longest-common-prefix/)         |Easy         |	 		     | 
 |          |2. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)    |Easy         |		 		|
 |          |3. [StrStr](https://leetcode.com/problems/implement-strstr/)                |Easy         |                         |
