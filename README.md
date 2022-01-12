@@ -57,6 +57,7 @@ Disclaimer: These do not neccesarily represent the most optimum solution. I am o
 |          |3. [Max Sub Array](https://leetcode.com/problems/maximum-subarray/)         |Easy         |                         |
 |          |4. [Buy/Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy  |                         |
 |          |5. [Buy/Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Medium|                      |
+|          |6. [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)       |Easy         |                         |
 | Linked List|1. [Delete Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy   |use [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h) and [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c)                 |
 |           |2. [Keep Unique](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Medium|use [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h) and [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c)                    |
 |           |3. [Swap Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)        |Medium       |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
