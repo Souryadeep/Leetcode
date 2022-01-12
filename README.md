@@ -31,6 +31,7 @@ Disclaimer: These do not neccesarily represent the most optimum solution. I am o
 | String   |1. [LCPrefix](https://leetcode.com/problems/longest-common-prefix/)         |Easy         |	 		     | 
 |          |2. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)    |Easy         |		 		|
 |          |3. [StrStr](https://leetcode.com/problems/implement-strstr/)                |Easy         |                         |
+|          |4. [My Atoi](https://leetcode.com/problems/string-to-integer-atoi/)         |Medium       |                         |
 | Array    |1. [Remove Element](https://leetcode.com/problems/remove-element/)		|Easy	      |		 		|
 |          |2. [Next Permutation](https://leetcode.com/problems/next-permutation/)      |Medium       |		 	      	|
 |          |3. [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/)|Medium      |1. Negative marking 2. Bit Manipulation|
