@@ -69,3 +69,4 @@ Disclaimer: These do not neccesarily represent the most optimum solution. I am o
 |           |5. [Remove Nth element End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)              |
 |           |6. [Has Cycle](https://leetcode.com/problems/linked-list-cycle/)           |Easy         |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
 | Simulation|1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                   |Easy         |Also a string/math Q     |
+| Matrix    |1. [Rotate90](https://leetcode.com/problems/rotate-image/)                 |Medium       |                         |
