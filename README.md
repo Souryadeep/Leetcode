@@ -37,7 +37,7 @@ Disclaimer: These do not neccesarily represent the most optimum solution. I am o
 | Array    |1. [Remove Element](https://leetcode.com/problems/remove-element/)		|Easy	      |		 		|
 |          |2. [Next Permutation](https://leetcode.com/problems/next-permutation/)      |Medium       |		 	      	|
 |          |3. [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/)|Medium      |1. Negative marking 2. Bit Manipulation|
-|          |4. [Max Area](https://leetcode.com/problems/container-with-most-water/)     |Medium       |Greedy algo/Two pointer  |
+|          |4. [Max Area](https://leetcode.com/problems/container-with-most-water/)     |Medium       |1. Two pointer 2. Brute Force  |
 |          |5. [Search Insert](https://leetcode.com/problems/search-insert-position/)   |Easy         |                         |
 |          |6. [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|                    |
 | Recursion|1. [Reverse List](https://leetcode.com/problems/reverse-linked-list/)       |Easy         |use [list1.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list1.c) and [list1.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list1.h)	|
