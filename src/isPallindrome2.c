@@ -5,7 +5,7 @@
 
 //other headers or macros go here
 
-
+/*
 char* strrev(char* s){
     
     char* ret = (char *)malloc(strlen(s)+1);
@@ -46,7 +46,7 @@ bool validPalindrome(char * s){
     }
     return false;       
 }
-
+*/
 
 int main(int argc, char *argv[]){
 
