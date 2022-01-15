@@ -36,6 +36,7 @@ Disclaimer: These do not neccesarily represent the most optimum solution. I am o
 |          |4. [My Atoi](https://leetcode.com/problems/string-to-integer-atoi/)         |Medium       |                         |
 |          |5. [Longest Substr w/o rep](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|  |
 |          |6. [Is Pallindrome](https://leetcode.com/problems/valid-palindrome/)        |Easy         |                         |
+|          |7. [Is Pallindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)   |Easy         |                         |
 | Array    |1. [Remove Element](https://leetcode.com/problems/remove-element/)		|Easy	      |		 		|
 |          |2. [Next Permutation](https://leetcode.com/problems/next-permutation/)      |Medium       |		 	      	|
 |          |3. [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/)|Medium      |1. Negative marking 2. Bit Manipulation|
