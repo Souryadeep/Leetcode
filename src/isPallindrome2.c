@@ -5,6 +5,37 @@
 
 //other headers or macros go here
 
+bool checkPalinfurther(char* s,char *head, char* tail){
+    
+    while(head<tail){
+        
+        if (*head!=*tail){
+            return false;
+        }
+        head++;
+        tail--;
+    }
+    return true;
+}
+
+bool validPalindrome(char * s){
+
+    char* head = s;
+    char* tail = &s[strlen(s)-1];
+    bool result;
+    
+    while(head<tail){
+        
+        if (*head!=*tail){
+            return checkPalinfurther(s,head+1,tail) || checkPalinfurther(s,head,tail-1);
+        }
+        head++;
+        tail--;
+    }
+    return true;
+        
+}
+
 /*
 char* strrev(char* s){
     
