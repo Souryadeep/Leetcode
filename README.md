@@ -69,6 +69,7 @@ Executing the code on linux command line:
 |          |4. [Max Area](https://leetcode.com/problems/container-with-most-water/)     |Medium       |1. Two pointer 2. Brute Force  |
 |          |5. [Search Insert](https://leetcode.com/problems/search-insert-position/)   |Easy         |                         |
 |          |6. [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|                    |
+|          |7. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) |Easy         |3 pointer approach       |
 | Recursion|1. [Reverse List](https://leetcode.com/problems/reverse-linked-list/)       |Easy         |use [list1.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list1.c) and [list1.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list1.h)	|
 |          |2. [Merge lists](https://leetcode.com/problems/merge-two-sorted-lists/)     |Easy         |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
 | Bit Manipulation|1. [Add Binary](https://leetcode.com/problems/add-binary/)           |Easy         |                         |
