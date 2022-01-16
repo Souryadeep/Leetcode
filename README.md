@@ -62,6 +62,7 @@ Executing the code on linux command line:
 |          |5. [Longest Substr w/o rep](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|  |
 |          |6. [Is Pallindrome](https://leetcode.com/problems/valid-palindrome/)        |Easy         |                         |
 |          |7. [Is Pallindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)   |Easy         |                         |
+|          |8. [Longest Repeating Substr](https://leetcode.com/problems/longest-repeating-substring/)|Medium|Using hashtable. This is a partially working solution, as implementing the hash table in C is considerably more complex than higher level languages |
 | Array    |1. [Remove Element](https://leetcode.com/problems/remove-element/)		|Easy	      |		 		|
 |          |2. [Next Permutation](https://leetcode.com/problems/next-permutation/)      |Medium       |		 	      	|
 |          |3. [Find Duplicate](https://leetcode.com/problems/find-the-duplicate-number/)|Medium      |1. Negative marking 2. Bit Manipulation|
