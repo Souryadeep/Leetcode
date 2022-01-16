@@ -14,6 +14,31 @@ There are always multiple ways to solve problems, as you will see on leetcode to
 I have tried to add in some other best practices such as memory management.  
 Disclaimer: These do not neccesarily represent the most optimum solution. I am open to collaboration, and feel free to submit a pull request if you would like to contribute to the repo.
 
+
+## Usage  
+
+Please see my documentation on installing gcc (compulsory) and other optional tools @ [Link](https://github.com/Souryadeep/k-r-exercise-solutions)  
+
+Compiling the code on linux command line:  
+
+	- For code with comments that mentions 'use with ...'
+		- gcc -g -Wall -I../include program.c otherCFiles.c -o test -l(pthread/m/..)   
+		- -I../include is used to tell the compiler where the header files are  
+		- otherCFiles will be in the src directory    
+		- -l() is used to tell the linker to link a particular library, such as pthread, math (m) and so on  
+		- -g is a debug flag, -Wall is to turn on warnings  
+	- For code without the above comment
+		- gcc -g -Wall program.c -o test -l(pthread/m/...)  
+
+Executing the code on linux command line:  
+
+	- With valgrind  
+		- valgrind --leak-check=yes ./test  <cmdlineoptions>  
+	- Without valgrind  
+		- ./test <cmdlineoptions>
+
+
+
 ## Table of Contents
 
 👷 *work in progress...*  
