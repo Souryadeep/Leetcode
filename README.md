@@ -103,5 +103,6 @@ Executing the code on linux command line:
 | Simulation|1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                   |Easy         |Also a string/math Q     |
 | Matrix    |1. [Rotate90](https://leetcode.com/problems/rotate-image/)                 |Medium       |                         |
 | Interactive|1. [First Bad Version](https://leetcode.com/problems/first-bad-version/)  |Easy         |Binary search implemented|
+|           |2. [Guess Number](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy      |Binary search implemented|
 
 :top: [Go To TOP](#TOP)
