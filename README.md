@@ -102,6 +102,6 @@ Executing the code on linux command line:
 |           |6. [Has Cycle](https://leetcode.com/problems/linked-list-cycle/)           |Easy         |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
 | Simulation|1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                   |Easy         |Also a string/math Q     |
 | Matrix    |1. [Rotate90](https://leetcode.com/problems/rotate-image/)                 |Medium       |                         |
-
+| Interactive|1. [First Bad Version](https://leetcode.com/problems/first-bad-version/)  |Easy         |Binary search implemented|
 
 :top: [Go To TOP](#TOP)
