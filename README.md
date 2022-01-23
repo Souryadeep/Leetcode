@@ -72,6 +72,7 @@ Executing the code on linux command line:
 |          |7. [Merge Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/) |Easy         |3 pointer approach       |
 |          |8. [Search Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|   |
 |          |9. [Find Missing Ranges](https://leetcode.com/problems/missing-ranges/)     |Easy         |				|
+|          |10.[Minimum Buying Cost](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)|Easy|         |
 | Recursion|1. [Reverse List](https://leetcode.com/problems/reverse-linked-list/)       |Easy         |use [list1.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list1.c) and [list1.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list1.h)	|
 |          |2. [Merge lists](https://leetcode.com/problems/merge-two-sorted-lists/)     |Easy         |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
 | Bit Manipulation|1. [Add Binary](https://leetcode.com/problems/add-binary/)           |Easy         |                         |
