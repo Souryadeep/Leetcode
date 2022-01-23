@@ -1,3 +1,16 @@
+/*
+	this is a user defined implementation of circular queue
+	in genereal, when using queues, stick to the standard library queue, queue<int> q
+	API:	
+		- q.push(x)	- add value to the queue
+		- q.pop()	- pop the first element from the queue (FIFO)
+		- q.size()
+		- q.front()	- first element of the queue
+		- q.back()	- last element of the queue
+
+*/
+
+
 #include <iostream>
 #include <vector>
 
