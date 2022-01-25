@@ -110,5 +110,6 @@ Executing the code on linux command line:
 | Interactive|1. [First Bad Version](https://leetcode.com/problems/first-bad-version/)  |Easy         |Binary search implemented|
 |           |2. [Guess Number](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy      |Binary search implemented|
 | Sorting   |1. [Majority Element](https://leetcode.com/problems/majority-element//)    |Easy         |				|
+|           |2. [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|Medium      |                         |
 
 :top: [Go To TOP](#TOP)
