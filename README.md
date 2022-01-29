@@ -112,5 +112,6 @@ Executing the code on linux command line:
 | Sorting   |1. [Majority Element](https://leetcode.com/problems/majority-element//)    |Easy         |				|
 |           |2. [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|Medium      |                         |
 | Graph     |1. [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)       |Medium       |                         |
+|           |2. [Number of Islands](https://leetcode.com/problems/number-of-islands/)   |Medium       |                         |
 
 :top: [Go To TOP](#TOP)
