@@ -111,5 +111,6 @@ Executing the code on linux command line:
 |           |2. [Guess Number](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy      |Binary search implemented|
 | Sorting   |1. [Majority Element](https://leetcode.com/problems/majority-element//)    |Easy         |				|
 |           |2. [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|Medium      |                         |
+| Graph     |1. [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)       |Medium       |                         |
 
 :top: [Go To TOP](#TOP)
