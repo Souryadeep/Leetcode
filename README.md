@@ -23,8 +23,9 @@ Compiling the code on linux command line:
 
 	- For code with comments that mentions 'use with ...'
 		- gcc -g -Wall -I../include program.c otherCFiles.c -o test -l(pthread/m/..)   
+		- for C++ code, replace the gcc with g++  
 		- -I../include is used to tell the compiler where the header files are  
-		- otherCFiles will be in the src directory    
+		- other C Files will be in the src directory    
 		- -l() is used to tell the linker to link a particular library, such as pthread, math (m) and so on  
 		- -g is a debug flag, -Wall is to turn on warnings  
 	- For code without the above comment
