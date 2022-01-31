@@ -114,4 +114,5 @@ Executing the code on linux command line:
 | Graph     |1. [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)       |Medium       |                         |
 |           |2. [Number of Islands](https://leetcode.com/problems/number-of-islands/)   |Medium       |                         |
 |           |3. [Open Lock](https://leetcode.com/problems/open-the-lock/)               |Medium       |                         |
+| Stack     |4. [Min Stack](https://leetcode.com/problems/min-stack/)                   |Easy         |                         |
 :top: [Go To TOP](#TOP)
