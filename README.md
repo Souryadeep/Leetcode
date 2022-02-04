@@ -117,4 +117,5 @@ Executing the code on linux command line:
 |           |3. [Open Lock](https://leetcode.com/problems/open-the-lock/)               |Medium       |                         |
 | Stack     |1. [Min Stack](https://leetcode.com/problems/min-stack/)                   |Easy         |                         |
 |           |2. [Reverse Polish](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|                       |
+|           |3. [Num of Islands](https://leetcode.com/problems/number-of-islands/)      |Medium       |solved with DFS          |
 :top: [Go To TOP](#TOP)
