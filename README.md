@@ -118,4 +118,5 @@ Executing the code on linux command line:
 | Stack     |1. [Min Stack](https://leetcode.com/problems/min-stack/)                   |Easy         |                         |
 |           |2. [Reverse Polish](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|                       |
 |           |3. [Num of Islands](https://leetcode.com/problems/number-of-islands/)      |Medium       |solved with DFS          |
+|           |4. [BST Inorder traverse](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Easy|                      |
 :top: [Go To TOP](#TOP)
