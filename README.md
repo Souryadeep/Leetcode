@@ -106,6 +106,7 @@ Executing the code on linux command line:
 |           |4. [Reverse K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|Hard       |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
 |           |5. [Remove Nth element End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)              |
 |           |6. [Has Cycle](https://leetcode.com/problems/linked-list-cycle/)           |Easy         |use [list2.c](https://github.com/Souryadeep/Leetcode/blob/master/src/list2.c) and [list2.h](https://github.com/Souryadeep/Leetcode/blob/master/include/list2.h)|
+|			|7. [Add 2 nums](https://leetcode.com/problems/add-two-numbers/)            |Medium		  |							|
 | Simulation|1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                   |Easy         |Also a string/math Q     |
 | Matrix    |1. [Rotate90](https://leetcode.com/problems/rotate-image/)                 |Medium       |                         |
 | Interactive|1. [First Bad Version](https://leetcode.com/problems/first-bad-version/)  |Easy         |Binary search implemented|
